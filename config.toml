@@ -2,9 +2,9 @@ title = "Artifarti"
 baseURL = "https://www.artifarti.com"
 languageCode = "it-IT"
 theme = "airspace"
+staticDir = "static"
 
 [menu]
-
   [[menu.header]]
     weight = 2
     name = "Work"
